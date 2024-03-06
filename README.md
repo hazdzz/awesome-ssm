@@ -7,8 +7,7 @@ A list for SSMs and related works.
 | Number | SSM | Paper | Code | Conference or Journal | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | High-order Polynomial Projection Operator (HiPPO) | HiPPO: Recurrent Memory with Optimal Polynomial Projections | https://github.com/state-spaces/s4 | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/102f0bb6efb3a6128a3c750dd16729be-Abstract.html |
-| 2 | Linear State-Space Layer (LSSL) | Combining Recurrent, Convolutional, and Continuous-time
-Models with Linear State-Space Layers | https://github.com/state-spaces/s4 | NeurIPS 2021 | https://openreview.net/forum?id=yWd42CWN3c |
+| 2 | Linear State-Space Layer (LSSL) | Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers | https://github.com/state-spaces/s4 | NeurIPS 2021 | https://openreview.net/forum?id=yWd42CWN3c |
 | 3 | Structured State Space Sequence (S4) | Efficiently Modeling Long Sequences with Structured State Spaces | https://github.com/state-spaces/s4 | ICLR 2022 | https://openreview.net/forum?id=uYLFoz1vlAC |
 | 4 | Diagonal State Space (DSS) | Diagonal State Spaces are as Effective as Structured State Spaces | https://github.com/ag1988/dss | NeurIPS 2022 | https://openreview.net/forum?id=RjS0j6tsSrf |
 | 5 | Diagonal State Space (S4D) | On the Parameterization and Initialization of Diagonal State Space Models | https://github.com/state-spaces/s4 | NeurIPS 2022 | https://openreview.net/forum?id=yJE7iQSAep |
