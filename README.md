@@ -20,8 +20,8 @@ A list for SSMs and related works.
 | 12 | STU | Spectral State Space Models | https://github.com/catid/spectral_ssm | | https://arxiv.org/abs/2312.06837 |
 | 13 | S6 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | https://github.com/state-spaces/mamba | | https://arxiv.org/abs/2312.00752 |
 
-## List for Attentional Linear RNNs (ALRNNs)
-| Number | ALRNN | Paper | Code | Conference or Journal | URL |
+## List for Linear RNNs (LRNNs)
+| Number | LRNN | Paper | Code | Conference or Journal | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | Mega | Mega: Moving Average Equipped Gated Attention | https://github.com/facebookresearch/mega | ICLR 2023 | https://openreview.net/forum?id=qNLe3iq2El |
 | 2 | Hyena | Hyena Hierarchy: Towards Larger Convolutional Language Models | https://github.com/hazyresearch/safari | ICML 2023 | https://proceedings.mlr.press/v202/poli23a.html | 
