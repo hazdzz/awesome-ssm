@@ -28,11 +28,12 @@ A list for SSMs and related works.
 | 3 | CCNN | Modelling Long Range Dependencies in \$N\$D: From Task-Specific to a General Purpose CNN | https://github.com/david-knigge/ccnn | ICLR 2023 | https://openreview.net/forum?id=ZW5aK4yCRqU |
 | 4 | SGConv | What Makes Convolutional Models Great on Long Sequence Modeling? | https://github.com/ctlllll/SGConv | ICLR 2023 | https://openreview.net/forum?id=TGJSPbRpJX- |
 | 5 | Mega | Mega: Moving Average Equipped Gated Attention | https://github.com/facebookresearch/mega | ICLR 2023 | https://openreview.net/forum?id=qNLe3iq2El |
-| 6 | Hyena | Hyena Hierarchy: Towards Larger Convolutional Language Models | https://github.com/hazyresearch/safari | ICML 2023 | https://proceedings.mlr.press/v202/poli23a.html |
-| 7 | MultiresNet | Sequence Modeling with Multiresolution Convolutional Memory | https://github.com/thjashin/multires-conv | ICML 2023 | https://proceedings.mlr.press/v202/shi23f.html |
-| 8 | LRU | Resurrecting Recurrent Neural Networks for Long Sequences | | ICML 2023 | https://proceedings.mlr.press/v202/orvieto23a.html |
-| 9 | RWKV | RWKV: Reinventing RNNs for the Transformer Era | https://github.com/BlinkDL/RWKV-LM | EMNLP 2023 | https://aclanthology.org/2023.findings-emnlp.936/ |
-| 10 | RetNet | Retentive Network: A Successor to Transformer for Large Language Models | https://github.com/microsoft/torchscale | | https://arxiv.org/abs/2307.08621 |
-| 11 | Monarch Mixer | Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture | https://github.com/HazyResearch/m2 | NeurIPS 2023 | https://openreview.net/forum?id=cB0BImqSS9 |
-| 12 | SeqBoat | Sparse Modular Activation for Efficient Sequence Modeling | https://github.com/renll/SeqBoat | NeurIPS 2023 | https://openreview.net/forum?id=TfbzX6I14i |
-| 13 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | | https://arxiv.org/abs/2312.06635 |
+| 6 | TNN | Toeplitz Neural Network for Sequence Modeling | https://github.com/Doraemonzzz/tnn-pytorch | ICLR 2023 | https://openreview.net/forum?id=IxmWsm4xrua |
+| 7 | Hyena | Hyena Hierarchy: Towards Larger Convolutional Language Models | https://github.com/hazyresearch/safari | ICML 2023 | https://proceedings.mlr.press/v202/poli23a.html |
+| 8 | MultiresNet | Sequence Modeling with Multiresolution Convolutional Memory | https://github.com/thjashin/multires-conv | ICML 2023 | https://proceedings.mlr.press/v202/shi23f.html |
+| 9 | LRU | Resurrecting Recurrent Neural Networks for Long Sequences | | ICML 2023 | https://proceedings.mlr.press/v202/orvieto23a.html |
+| 10 | RWKV | RWKV: Reinventing RNNs for the Transformer Era | https://github.com/BlinkDL/RWKV-LM | EMNLP 2023 | https://aclanthology.org/2023.findings-emnlp.936/ |
+| 11 | RetNet | Retentive Network: A Successor to Transformer for Large Language Models | https://github.com/microsoft/torchscale | | https://arxiv.org/abs/2307.08621 |
+| 12 | Monarch Mixer | Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture | https://github.com/HazyResearch/m2 | NeurIPS 2023 | https://openreview.net/forum?id=cB0BImqSS9 |
+| 13 | SeqBoat | Sparse Modular Activation for Efficient Sequence Modeling | https://github.com/renll/SeqBoat | NeurIPS 2023 | https://openreview.net/forum?id=TfbzX6I14i |
+| 14 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | | https://arxiv.org/abs/2312.06635 |
