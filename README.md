@@ -36,4 +36,6 @@ A list for SSMs and related works.
 | 11 | RetNet | Retentive Network: A Successor to Transformer for Large Language Models | https://github.com/microsoft/torchscale | | https://arxiv.org/abs/2307.08621 |
 | 12 | Monarch Mixer | Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture | https://github.com/HazyResearch/m2 | NeurIPS 2023 | https://openreview.net/forum?id=cB0BImqSS9 |
 | 13 | SeqBoat | Sparse Modular Activation for Efficient Sequence Modeling | https://github.com/renll/SeqBoat | NeurIPS 2023 | https://openreview.net/forum?id=TfbzX6I14i |
-| 14 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | | https://arxiv.org/abs/2312.06635 |
+| 14 | HGRN | Hierarchically Gated Recurrent Neural Network for Sequence Modeling | https://github.com/OpenNLPLab/HGRN | NeurIPS 2023 | https://openreview.net/forum?id=P1TCHxJwLB |
+| 15 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | | https://arxiv.org/abs/2312.06635 |
+| 16 | Orchid | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | | | https://arxiv.org/abs/2402.18508 |
