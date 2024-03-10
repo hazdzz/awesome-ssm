@@ -17,8 +17,8 @@ A list for SSMs and related works.
 | 9 | S5 | Simplified State Space Layers for Sequence Modeling | https://github.com/lindermanlab/S5 | ICLR 2023 | https://openreview.net/forum?id=Ai8Hw3AXqks |
 | 10 | H3 | Hungry Hungry Hippos: Towards Language Modeling with State Space Models | https://github.com/HazyResearch/H3 | ICLR 2023 | https://openreview.net/forum?id=COZDy0WYGg |
 | 11 | S4-PTD and S5-PTD | Robustifying State-space Models for Long Sequences via Approximate Diagonalization | | ICLR 2024 | https://openreview.net/forum?id=DjeQ39QoLQ |
-| 12 | STU | Spectral State Space Models | https://github.com/catid/spectral_ssm | | https://arxiv.org/abs/2312.06837 |
-| 13 | S6 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | https://github.com/state-spaces/mamba | | https://arxiv.org/abs/2312.00752 |
+| 12 | S6 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | https://github.com/state-spaces/mamba | | https://arxiv.org/abs/2312.00752 |
+| 13 | STU | Spectral State Space Models | https://github.com/catid/spectral_ssm | | https://arxiv.org/abs/2312.06837 |
 
 ## List for Linear RNNs (LRNNs)
 | Number | LRNN | Paper | Code | Conference or Journal | URL |
