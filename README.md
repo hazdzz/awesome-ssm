@@ -39,3 +39,8 @@ A list for SSMs and related works.
 | 14 | HGRN | Hierarchically Gated Recurrent Neural Network for Sequence Modeling | https://github.com/OpenNLPLab/HGRN | NeurIPS 2023 | https://openreview.net/forum?id=P1TCHxJwLB |
 | 15 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | | https://arxiv.org/abs/2312.06635 |
 | 16 | Orchid | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | | | https://arxiv.org/abs/2402.18508 |
+
+## List for Surveys
+| Number | Paper | Journal or Conference | URL |
+|:------:|--------------------------|:-------:|----------------------------------------|
+| 1 | A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies | | https://arxiv.org/abs/2302.06218 |
