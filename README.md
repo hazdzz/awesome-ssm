@@ -35,12 +35,13 @@ A list for SSMs and related works.
 | 10 | LRU | Resurrecting Recurrent Neural Networks for Long Sequences | | ICML 2023 | https://proceedings.mlr.press/v202/orvieto23a.html |
 | 11 | RWKV v4 (Dove) | RWKV: Reinventing RNNs for the Transformer Era | https://github.com/BlinkDL/RWKV-LM | EMNLP 2023 | https://aclanthology.org/2023.findings-emnlp.936/ |
 | 12 | RetNet | Retentive Network: A Successor to Transformer for Large Language Models | https://github.com/microsoft/torchscale | | https://arxiv.org/abs/2307.08621 |
-| 13 | Monarch Mixer | Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture | https://github.com/HazyResearch/m2 | NeurIPS 2023 | https://openreview.net/forum?id=cB0BImqSS9 |
-| 14 | SeqBoat | Sparse Modular Activation for Efficient Sequence Modeling | https://github.com/renll/SeqBoat | NeurIPS 2023 | https://openreview.net/forum?id=TfbzX6I14i |
-| 15 | HGRN | Hierarchically Gated Recurrent Neural Network for Sequence Modeling | https://github.com/OpenNLPLab/HGRN | NeurIPS 2023 | https://openreview.net/forum?id=P1TCHxJwLB |
-| 16 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | | https://arxiv.org/abs/2312.06635 |
-| 17 | Orchid | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | | | https://arxiv.org/abs/2402.18508 |
-| 18 | RWKV v5 (Eagle) and v6 (Finch) | Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence | https://huggingface.co/RWKV | | https://arxiv.org/abs/2404.05892 |
+| 13 | MultiHyena | Laughing Hyena Distillery: Extracting Compact Recurrences From Convolutions | | NeurIPS 2023 | https://openreview.net/forum?id=OWELckerm6 |
+| 14 | Monarch Mixer | Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture | https://github.com/HazyResearch/m2 | NeurIPS 2023 | https://openreview.net/forum?id=cB0BImqSS9 |
+| 15 | SeqBoat | Sparse Modular Activation for Efficient Sequence Modeling | https://github.com/renll/SeqBoat | NeurIPS 2023 | https://openreview.net/forum?id=TfbzX6I14i |
+| 16 | HGRN | Hierarchically Gated Recurrent Neural Network for Sequence Modeling | https://github.com/OpenNLPLab/HGRN | NeurIPS 2023 | https://openreview.net/forum?id=P1TCHxJwLB |
+| 17 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | | https://arxiv.org/abs/2312.06635 |
+| 18 | Orchid | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | | | https://arxiv.org/abs/2402.18508 |
+| 19 | RWKV v5 (Eagle) and v6 (Finch) | Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence | https://huggingface.co/RWKV | | https://arxiv.org/abs/2404.05892 |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
