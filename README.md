@@ -47,3 +47,4 @@ A list for SSMs and related works.
 | Number | Paper | Journal or Conference | URL |
 |:------:|--------------------------|:-------:|----------------------------------------|
 | 1 | A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies | | https://arxiv.org/abs/2302.06218 |
+| 2 | State Space Model for New-Generation Network Alternative to Transformers: A Survey | | https://arxiv.org/abs/2404.09516 |
