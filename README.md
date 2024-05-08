@@ -42,6 +42,7 @@ A list for SSMs and related works.
 | 17 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | | https://arxiv.org/abs/2312.06635 |
 | 18 | Orchid | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | | | https://arxiv.org/abs/2402.18508 |
 | 19 | RWKV v5 (Eagle) and v6 (Finch) | Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence | https://huggingface.co/RWKV | | https://arxiv.org/abs/2404.05892 |
+| 20 | HGRN2 | HGRN2: Gated Linear RNNs with State Expansion | https://github.com/OpenNLPLab/HGRN2 | | https://arxiv.org/abs/2404.07904 |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
