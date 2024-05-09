@@ -19,6 +19,7 @@ A list for SSMs and related works.
 | 11 | S4-PTD and S5-PTD | Robustifying State-space Models for Long Sequences via Approximate Diagonalization | | ICLR 2024 | https://openreview.net/forum?id=DjeQ39QoLQ |
 | 12 | S6 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | https://github.com/state-spaces/mamba | | https://arxiv.org/abs/2312.00752 |
 | 13 | STU | Spectral State Space Models | https://github.com/catid/spectral_ssm | | https://arxiv.org/abs/2312.06837 |
+| 14 | Mamba 2 | Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality | | ICML 2024 | |
 
 ## List for Linear RNNs (LRNNs)
 | Number | LRNN | Paper | Code | Conference or Journal | URL |
