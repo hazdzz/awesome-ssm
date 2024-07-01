@@ -1,4 +1,8 @@
 # SSMs and related works list
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![forks](https://img.shields.io/github/forks/hazdzz/awesome-ssm)](https://github.com/hazdzz/awesome-ssm/network/members)
+[![stars](https://img.shields.io/github/stars/hazdzz/awesome-ssm)](https://github.com/hazdzz/awesome-ssm/stargazers)
+[![License](https://img.shields.io/github/license/hazdzz/awesome-ssm)](./LICENSE)
 
 ## About
 A list for SSMs and related works.
