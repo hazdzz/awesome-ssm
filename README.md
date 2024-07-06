@@ -24,7 +24,7 @@ A list for SSMs and related works.
 | 12 | S6 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | https://github.com/state-spaces/mamba | | https://arxiv.org/abs/2312.00752 |
 | 13 | STU | Spectral State Space Models | https://github.com/catid/spectral_ssm | | https://arxiv.org/abs/2312.06837 |
 | 14 | Mamba 2 | Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality | https://github.com/state-spaces/mamba | ICML 2024 | https://arxiv.org/abs/2405.21060 |
-| 15 | RTF | State-Free Inference of State-Space Models: The Transfer Function Approach | https://github.com/ruke1ire/RTF | | https://arxiv.org/abs/2405.06147 |
+| 15 | RTF | State-Free Inference of State-Space Models: The Transfer Function Approach | https://github.com/ruke1ire/RTF | ICML 2024 | https://openreview.net/forum?id=DwwI9L67B5 |
 
 ## List for Linear RNNs (LRNNs)
 | Number | LRNN | Paper | Code | Conference or Journal | URL |
