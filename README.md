@@ -48,11 +48,13 @@ A list for SSMs and related works.
 | 17 | HGRN | Hierarchically Gated Recurrent Neural Network for Sequence Modeling | https://github.com/OpenNLPLab/HGRN | NeurIPS 2023 | https://openreview.net/forum?id=P1TCHxJwLB |
 | 18 | GLA Transformer | Gated Linear Attention Transformers with Hardware-Efficient Training | https://github.com/sustcsonglin/flash-linear-attention | ICML 2024 | https://proceedings.mlr.press/v235/yang24ab.html |
 | 19 | Orchid | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | | NeurIPS 2024 | https://proceedings.neurips.cc/paper_files/paper/2024/hash/8ccc5ec30a8d46793d790e2216efd40d-Abstract-Conference.html |
-| 20 | RWKV v5 (Eagle) and v6 (Finch) | Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence | https://huggingface.co/RWKV | COLM 2024 | https://openreview.net/forum?id=soz1SEiPeq |
+| 20 | RWKV v5 (Eagle) and v6 (Finch) | Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence | https://github.com/BlinkDL/RWKV-LM | COLM 2024 | https://openreview.net/forum?id=soz1SEiPeq |
 | 21 | HGRN2 | HGRN2: Gated Linear RNNs with State Expansion | https://github.com/OpenNLPLab/HGRN2 | COLM 2024 | https://openreview.net/forum?id=y6SqbJfCSk |
+| 22 | RWKV v7 (Goose) | RWKV-7 "Goose" with Expressive Dynamic State Evolution | https://github.com/BlinkDL/RWKV-LM | | https://arxiv.org/abs/2503.14456 |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
 |:------:|--------------------------|:-------:|----------------------------------------|
 | 1 | A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies | | https://arxiv.org/abs/2302.06218 |
 | 2 | State Space Model for New-Generation Network Alternative to Transformers: A Survey | | https://arxiv.org/abs/2404.09516 |
+| 3 | Understanding Transformer from the Perspective of Associative Memory | | https://arxiv.org/abs/2505.19488 |
