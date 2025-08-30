@@ -50,7 +50,8 @@ A list for SSMs and related works.
 | 19 | Orchid | Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling | | NeurIPS 2024 | https://proceedings.neurips.cc/paper_files/paper/2024/hash/8ccc5ec30a8d46793d790e2216efd40d-Abstract-Conference.html |
 | 20 | RWKV v5 (Eagle) and v6 (Finch) | Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence | https://github.com/BlinkDL/RWKV-LM | COLM 2024 | https://openreview.net/forum?id=soz1SEiPeq |
 | 21 | HGRN2 | HGRN2: Gated Linear RNNs with State Expansion | https://github.com/OpenNLPLab/HGRN2 | COLM 2024 | https://openreview.net/forum?id=y6SqbJfCSk |
-| 22 | RWKV v7 (Goose) | RWKV-7 "Goose" with Expressive Dynamic State Evolution | https://github.com/BlinkDL/RWKV-LM | | https://arxiv.org/abs/2503.14456 |
+| 22 | | Parallelizing Linear Transformers with the Delta Rule over Sequence Length | https://github.com/fla-org/flash-linear-attention | NeurIPS 2024 | https://openreview.net/forum?id=y8Rm4VNRPH |
+| 23 | RWKV v7 (Goose) | RWKV-7 "Goose" with Expressive Dynamic State Evolution | https://github.com/BlinkDL/RWKV-LM | | https://arxiv.org/abs/2503.14456 |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
