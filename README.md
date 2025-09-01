@@ -25,6 +25,7 @@ A list for SSMs and related works.
 | 13 | STU | Spectral State Space Models | https://github.com/catid/spectral_ssm | | https://arxiv.org/abs/2312.06837 |
 | 14 | Mamba 2 | Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality | https://github.com/state-spaces/mamba | ICML 2024 | https://arxiv.org/abs/2405.21060 |
 | 15 | RTF | State-Free Inference of State-Space Models: The Transfer Function Approach | https://github.com/ruke1ire/RTF | ICML 2024 | https://openreview.net/forum?id=DwwI9L67B5 |
+| 16 | Longhorn | Longhorn: State Space Models are Amortized Online Learners | https://github.com/Cranial-XIX/Longhorn | ICLR 2025 | https://openreview.net/forum?id=8jOqCcLzeO |
 
 ## List for Linear RNNs (LRNNs)
 | Number | LRNN | Paper | Code | Conference or Journal | URL |
