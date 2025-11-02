@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/hazdzz/awesome-ssm)](./LICENSE)
 
 ## About
-A list for SSMs and related works.
+A list for SSMs, linear RNNs, and linear attention-based Transformers. The differences between SSMs, linear RNNs, and linear attention-based Transformers are very small. Unless specifically indicated in the papers, the divisions in this list are not rigorous and are for academic reference only.
 
 ## List for SSMs
 | Number | SSM | Paper | Code | Conference or Journal | URL |
