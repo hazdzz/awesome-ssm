@@ -59,6 +59,4 @@ A list for SSMs, linear RNNs, and linear attention-based Transformers. The diffe
 |:------:|--------------------------|:-------:|----------------------------------------|
 | 1 | Modeling sequences with structured state spaces | | https://purl.stanford.edu/mb976vf9362 |
 | 2 | A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies | | https://arxiv.org/abs/2302.06218 |
-| 3 | State Space Model for New-Generation Network Alternative to Transformers: A Survey | | https://arxiv.org/abs/2404.09516 |
-| 4 | Understanding Transformer from the Perspective of Associative Memory | | https://arxiv.org/abs/2505.19488 |
-| 5 | Test-time regression: a unifying framework for designing sequence models with associative memory | | https://arxiv.org/abs/2501.12352 |
+| 3 | Test-time regression: a unifying framework for designing sequence models with associative memory | | https://arxiv.org/abs/2501.12352 |
